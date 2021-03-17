@@ -1,0 +1,29 @@
+.arham{
+    margin-top: 40px;
+}
+
+.button{
+    margin-left: 47%;
+    /* margin-right: auto; */
+}
+
+.arham2{
+    /* align-items: center; */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.arham3{
+    color: red;
+}
+
+.row{
+    width:  50%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+span{
+    font-weight: 1000;   
+}
